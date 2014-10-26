@@ -52,8 +52,7 @@ From the formula we can see that when bet probability goes up, the decimal odds 
 
 ## ROI and bet win probability
 
-Since $$latex ROI = decimal odds * win probability -1$$ Now if we take derivative with respect to win probability:
-we get:
+Since $$latex ROI = decimal odds * win probability -1$$ Now if we take derivative with respect to win probability, we get:
 $$latex
 \Delta ROI = decimal odds
 $$
